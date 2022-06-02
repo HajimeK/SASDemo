@@ -1,0 +1,430 @@
+"Make","Model","Type","MSRP","MPG_City","MPG_Highway"
+"Acura","MDX","SUV","$36,945",17,23
+"Acura","RSX Type S 2dr","Sedan","$23,820",24,31
+"Acura","TSX 4dr","Sedan","$26,990",22,29
+"Acura","TL 4dr","Sedan","$33,195",20,28
+"Acura","3.5 RL 4dr","Sedan","$43,755",18,24
+"Acura","3.5 RL w/Navigation 4dr","Sedan","$46,100",18,24
+"Acura","NSX coupe 2dr manual S","Sports","$89,765",17,24
+"Audi","A4 1.8T 4dr","Sedan","$25,940",22,31
+"Audi","A41.8T convertible 2dr","Sedan","$35,940",23,30
+"Audi","A4 3.0 4dr","Sedan","$31,840",20,28
+"Audi","A4 3.0 Quattro 4dr manual","Sedan","$33,430",17,26
+"Audi","A4 3.0 Quattro 4dr auto","Sedan","$34,480",18,25
+"Audi","A6 3.0 4dr","Sedan","$36,640",20,27
+"Audi","A6 3.0 Quattro 4dr","Sedan","$39,640",18,25
+"Audi","A4 3.0 convertible 2dr","Sedan","$42,490",20,27
+"Audi","A4 3.0 Quattro convertible 2dr","Sedan","$44,240",18,25
+"Audi","A6 2.7 Turbo Quattro 4dr","Sedan","$42,840",18,25
+"Audi","A6 4.2 Quattro 4dr","Sedan","$49,690",17,24
+"Audi","A8 L Quattro 4dr","Sedan","$69,190",17,24
+"Audi","S4 Quattro 4dr","Sedan","$48,040",14,20
+"Audi","RS 6 4dr","Sports","$84,600",15,22
+"Audi","TT 1.8 convertible 2dr (coupe)","Sports","$35,940",20,28
+"Audi","TT 1.8 Quattro 2dr (convertible)","Sports","$37,390",20,28
+"Audi","TT 3.2 coupe 2dr (convertible)","Sports","$40,590",21,29
+"Audi","A6 3.0 Avant Quattro","Wagon","$40,840",18,25
+"Audi","S4 Avant Quattro","Wagon","$49,090",15,21
+"BMW","X3 3.0i","SUV","$37,000",16,23
+"BMW","X5 4.4i","SUV","$52,195",16,22
+"BMW","325i 4dr","Sedan","$28,495",20,29
+"BMW","325Ci 2dr","Sedan","$30,795",20,29
+"BMW","325Ci convertible 2dr","Sedan","$37,995",19,27
+"BMW","325xi 4dr","Sedan","$30,245",19,27
+"BMW","330i 4dr","Sedan","$35,495",20,30
+"BMW","330Ci 2dr","Sedan","$36,995",20,30
+"BMW","330xi 4dr","Sedan","$37,245",20,29
+"BMW","525i 4dr","Sedan","$39,995",19,28
+"BMW","330Ci convertible 2dr","Sedan","$44,295",19,28
+"BMW","530i 4dr","Sedan","$44,995",20,30
+"BMW","545iA 4dr","Sedan","$54,995",18,26
+"BMW","745i 4dr","Sedan","$69,195",18,26
+"BMW","745Li 4dr","Sedan","$73,195",18,26
+"BMW","M3 coupe 2dr","Sports","$48,195",16,24
+"BMW","M3 convertible 2dr","Sports","$56,595",16,23
+"BMW","Z4 convertible 2.5i 2dr","Sports","$33,895",20,28
+"BMW","Z4 convertible 3.0i 2dr","Sports","$41,045",21,29
+"BMW","325xi Sport","Wagon","$32,845",19,26
+"Buick","Rainier","SUV","$37,895",15,21
+"Buick","Rendezvous CX","SUV","$26,545",19,26
+"Buick","Century Custom 4dr","Sedan","$22,180",20,30
+"Buick","LeSabre Custom 4dr","Sedan","$26,470",20,29
+"Buick","Regal LS 4dr","Sedan","$24,895",20,30
+"Buick","Regal GS 4dr","Sedan","$28,345",18,28
+"Buick","LeSabre Limited 4dr","Sedan","$32,245",20,29
+"Buick","Park Avenue 4dr","Sedan","$35,545",20,29
+"Buick","Park Avenue Ultra 4dr","Sedan","$40,720",18,28
+"Cadillac","Escalade","SUV","$52,795",14,18
+"Cadillac","SRX V8","SUV","$46,995",16,21
+"Cadillac","CTS VVT 4dr","Sedan","$30,835",18,25
+"Cadillac","Deville 4dr","Sedan","$45,445",18,26
+"Cadillac","Deville DTS 4dr","Sedan","$50,595",18,26
+"Cadillac","Seville SLS 4dr","Sedan","$47,955",18,26
+"Cadillac","XLR convertible 2dr","Sports","$76,200",17,25
+"Cadillac","Escalade EXT","Truck","$52,975",13,17
+"Chevrolet","Suburban 1500 LT","SUV","$42,735",14,18
+"Chevrolet","Tahoe LT","SUV","$41,465",14,18
+"Chevrolet","TrailBlazer LT","SUV","$30,295",16,21
+"Chevrolet","Tracker","SUV","$20,255",19,22
+"Chevrolet","Aveo 4dr","Sedan","$11,690",28,34
+"Chevrolet","Aveo LS 4dr hatch","Sedan","$12,585",28,34
+"Chevrolet","Cavalier 2dr","Sedan","$14,610",26,37
+"Chevrolet","Cavalier 4dr","Sedan","$14,810",26,37
+"Chevrolet","Cavalier LS 2dr","Sedan","$16,385",26,37
+"Chevrolet","Impala 4dr","Sedan","$21,900",21,32
+"Chevrolet","Malibu 4dr","Sedan","$18,995",24,34
+"Chevrolet","Malibu LS 4dr","Sedan","$20,370",22,30
+"Chevrolet","Monte Carlo LS 2dr","Sedan","$21,825",21,32
+"Chevrolet","Impala LS 4dr","Sedan","$25,000",20,30
+"Chevrolet","Impala SS 4dr","Sedan","$27,995",18,28
+"Chevrolet","Malibu LT 4dr","Sedan","$23,495",23,32
+"Chevrolet","Monte Carlo SS 2dr","Sedan","$24,225",18,28
+"Chevrolet","Astro","Sedan","$26,395",14,17
+"Chevrolet","Venture LS","Sedan","$27,020",19,26
+"Chevrolet","Corvette 2dr","Sports","$44,535",18,25
+"Chevrolet","Corvette convertible 2dr","Sports","$51,535",18,25
+"Chevrolet","Avalanche 1500","Truck","$36,100",14,18
+"Chevrolet","Colorado Z85","Truck","$18,760",18,23
+"Chevrolet","Silverado 1500 Regular Cab","Truck","$20,310",15,21
+"Chevrolet","Silverado SS","Truck","$40,340",13,17
+"Chevrolet","SSR","Truck","$41,995",16,19
+"Chevrolet","Malibu Maxx LS","Wagon","$22,225",22,30
+"Chrysler","PT Cruiser 4dr","Sedan","$17,985",22,29
+"Chrysler","PT Cruiser Limited 4dr","Sedan","$22,000",22,29
+"Chrysler","Sebring 4dr","Sedan","$19,090",22,30
+"Chrysler","Sebring Touring 4dr","Sedan","$21,840",21,28
+"Chrysler","300M 4dr","Sedan","$29,865",18,27
+"Chrysler","Concorde LX 4dr","Sedan","$24,130",21,29
+"Chrysler","Concorde LXi 4dr","Sedan","$26,860",19,27
+"Chrysler","PT Cruiser GT 4dr","Sedan","$25,955",21,27
+"Chrysler","Sebring convertible 2dr","Sedan","$25,215",22,30
+"Chrysler","300M Special Edition 4dr","Sedan","$33,295",18,27
+"Chrysler","Sebring Limited convertible 2dr","Sedan","$30,950",21,28
+"Chrysler","Town and Country LX","Sedan","$27,490",19,26
+"Chrysler","Town and Country Limited","Sedan","$38,380",18,25
+"Chrysler","Crossfire 2dr","Sports","$34,495",17,25
+"Chrysler","Pacifica","Wagon","$31,230",17,23
+"Dodge","Durango SLT","SUV","$32,235",15,21
+"Dodge","Neon SE 4dr","Sedan","$13,670",29,36
+"Dodge","Neon SXT 4dr","Sedan","$15,040",29,36
+"Dodge","Intrepid SE 4dr","Sedan","$22,035",21,29
+"Dodge","Stratus SXT 4dr","Sedan","$18,820",21,28
+"Dodge","Stratus SE 4dr","Sedan","$20,220",21,28
+"Dodge","Intrepid ES 4dr","Sedan","$24,885",18,27
+"Dodge","Caravan SE","Sedan","$21,795",20,26
+"Dodge","Grand Caravan SXT","Sedan","$32,660",18,25
+"Dodge","Viper SRT-10 convertible 2dr","Sports","$81,795",12,20
+"Dodge","Dakota Regular Cab","Truck","$17,630",16,22
+"Dodge","Dakota Club Cab","Truck","$20,300",16,22
+"Dodge","Ram 1500 Regular Cab ST","Truck","$20,215",16,21
+"Ford","Excursion 6.8 XLT","SUV","$41,475",10,13
+"Ford","Expedition 4.6 XLT","SUV","$34,560",15,19
+"Ford","Explorer XLT V6","SUV","$29,670",15,20
+"Ford","Escape XLS","SUV","$22,515",18,23
+"Ford","Focus ZX3 2dr hatch","Sedan","$13,270",26,33
+"Ford","Focus LX 4dr","Sedan","$13,730",27,36
+"Ford","Focus SE 4dr","Sedan","$15,460",26,33
+"Ford","Focus ZX5 5dr","Sedan","$15,580",26,33
+"Ford","Focus SVT 2dr","Sedan","$19,135",21,28
+"Ford","Taurus LX 4dr","Sedan","$20,320",20,27
+"Ford","Taurus SES Duratec 4dr","Sedan","$22,735",19,26
+"Ford","Crown Victoria 4dr","Sedan","$24,345",17,25
+"Ford","Crown Victoria LX 4dr","Sedan","$27,370",17,25
+"Ford","Crown Victoria LX Sport 4dr","Sedan","$30,315",17,25
+"Ford","Freestar SE","Sedan","$26,930",17,23
+"Ford","Mustang 2dr (convertible)","Sports","$18,345",20,29
+"Ford","Mustang GT Premium convertible 2dr","Sports","$29,380",17,25
+"Ford","Thunderbird Deluxe convert w/hardtop 2d","Sports","$37,530",17,24
+"Ford","F-150 Regular Cab XL","Truck","$22,010",15,19
+"Ford","F-150 Supercab Lariat","Truck","$33,540",14,18
+"Ford","Ranger 2.3 XL Regular Cab","Truck","$14,385",24,29
+"Ford","Focus ZTW","Wagon","$17,475",26,33
+"Ford","Taurus SE","Wagon","$22,290",19,26
+"GMC","Envoy XUV SLE","SUV","$31,890",15,19
+"GMC","Yukon 1500 SLE","SUV","$35,725",16,19
+"GMC","Yukon XL 2500 SLT","SUV","$46,265",13,17
+"GMC","Safari SLE","Sedan","$25,640",16,20
+"GMC","Canyon Z85 SL Regular Cab","Truck","$16,530",18,25
+"GMC","Sierra Extended Cab 1500","Truck","$25,717",17,20
+"GMC","Sierra HD 2500","Truck","$29,322",13,18
+"GMC","Sonoma Crew Cab","Truck","$25,395",15,19
+"Honda","Civic Hybrid 4dr manual (gas/electric)","Hybrid","$20,140",46,51
+"Honda","Insight 2dr (gas/electric)","Hybrid","$19,110",60,66
+"Honda","Pilot LX","SUV","$27,560",17,22
+"Honda","CR-V LX","SUV","$19,860",21,25
+"Honda","Element LX","SUV","$18,690",21,24
+"Honda","Civic DX 2dr","Sedan","$13,270",32,38
+"Honda","Civic HX 2dr","Sedan","$14,170",36,44
+"Honda","Civic LX 4dr","Sedan","$15,850",32,38
+"Honda","Accord LX 2dr","Sedan","$19,860",26,34
+"Honda","Accord EX 2dr","Sedan","$22,260",26,34
+"Honda","Civic EX 4dr","Sedan","$17,750",32,37
+"Honda","Civic Si 2dr hatch","Sedan","$19,490",26,30
+"Honda","Accord LX V6 4dr","Sedan","$23,760",21,30
+"Honda","Accord EX V6 2dr","Sedan","$26,960",21,30
+"Honda","Odyssey LX","Sedan","$24,950",18,25
+"Honda","Odyssey EX","Sedan","$27,450",18,25
+"Honda","S2000 convertible 2dr","Sports","$33,260",20,25
+"Hummer","H2","SUV","$49,995",10,12
+"Hyundai","Santa Fe GLS","SUV","$21,589",20,26
+"Hyundai","Accent 2dr hatch","Sedan","$10,539",29,33
+"Hyundai","Accent GL 4dr","Sedan","$11,839",29,33
+"Hyundai","Accent GT 2dr hatch","Sedan","$11,939",29,33
+"Hyundai","Elantra GLS 4dr","Sedan","$13,839",26,34
+"Hyundai","Elantra GT 4dr","Sedan","$15,389",26,34
+"Hyundai","Elantra GT 4dr hatch","Sedan","$15,389",26,34
+"Hyundai","Sonata GLS 4dr","Sedan","$19,339",19,27
+"Hyundai","Sonata LX 4dr","Sedan","$20,339",19,27
+"Hyundai","XG350 4dr","Sedan","$24,589",17,26
+"Hyundai","XG350 L 4dr","Sedan","$26,189",17,26
+"Hyundai","Tiburon GT V6 2dr","Sports","$18,739",19,26
+"Infiniti","G35 4dr","Sedan","$28,495",18,26
+"Infiniti","G35 Sport Coupe 2dr","Sedan","$29,795",18,26
+"Infiniti","G35 4dr","Sedan","$32,445",18,26
+"Infiniti","I35 4dr","Sedan","$31,145",19,26
+"Infiniti","M45 4dr","Sedan","$42,845",17,23
+"Infiniti","Q45 Luxury 4dr","Sedan","$52,545",17,23
+"Infiniti","FX35","Wagon","$34,895",16,22
+"Infiniti","FX45","Wagon","$36,395",15,19
+"Isuzu","Ascender S","SUV","$31,849",15,20
+"Isuzu","Rodeo S","SUV","$20,449",17,21
+"Jaguar","X-Type 2.5 4dr","Sedan","$29,995",18,26
+"Jaguar","X-Type 3.0 4dr","Sedan","$33,995",18,25
+"Jaguar","S-Type 3.0 4dr","Sedan","$43,895",18,26
+"Jaguar","S-Type 4.2 4dr","Sedan","$49,995",18,28
+"Jaguar","S-Type R 4dr","Sedan","$63,120",17,24
+"Jaguar","Vanden Plas 4dr","Sedan","$68,995",18,28
+"Jaguar","XJ8 4dr","Sedan","$59,995",18,28
+"Jaguar","XJR 4dr","Sedan","$74,995",17,24
+"Jaguar","XK8 coupe 2dr","Sports","$69,995",18,26
+"Jaguar","XK8 convertible 2dr","Sports","$74,995",18,26
+"Jaguar","XKR coupe 2dr","Sports","$81,995",16,23
+"Jaguar","XKR convertible 2dr","Sports","$86,995",16,23
+"Jeep","Grand Cherokee Laredo","SUV","$27,905",16,21
+"Jeep","Liberty Sport","SUV","$20,130",20,24
+"Jeep","Wrangler Sahara convertible 2dr","SUV","$25,520",16,19
+"Kia","Sorento LX","SUV","$19,635",16,19
+"Kia","Optima LX 4dr","Sedan","$16,040",23,30
+"Kia","Rio 4dr manual","Sedan","$10,280",26,33
+"Kia","Rio 4dr auto","Sedan","$11,155",25,32
+"Kia","Spectra 4dr","Sedan","$12,360",24,32
+"Kia","Spectra GS 4dr hatch","Sedan","$13,580",24,32
+"Kia","Spectra GSX 4dr hatch","Sedan","$14,630",24,32
+"Kia","Optima LX V6 4dr","Sedan","$18,435",20,27
+"Kia","Amanti 4dr","Sedan","$26,000",17,25
+"Kia","Sedona LX","Sedan","$20,615",16,22
+"Kia","Rio Cinco","Wagon","$11,905",26,33
+"Land Rover","Range Rover HSE","SUV","$72,250",12,16
+"Land Rover","Discovery SE","SUV","$39,250",12,16
+"Land Rover","Freelander SE","SUV","$25,995",18,21
+"Lexus","GX 470","SUV","$45,700",15,19
+"Lexus","LX 470","SUV","$64,800",13,17
+"Lexus","RX 330","SUV","$39,195",18,24
+"Lexus","ES 330 4dr","Sedan","$32,350",20,29
+"Lexus","IS 300 4dr manual","Sedan","$31,045",18,25
+"Lexus","IS 300 4dr auto","Sedan","$32,415",18,24
+"Lexus","GS 300 4dr","Sedan","$41,010",18,25
+"Lexus","GS 430 4dr","Sedan","$48,450",18,23
+"Lexus","LS 430 4dr","Sedan","$55,750",18,25
+"Lexus","SC 430 convertible 2dr","Sports","$63,200",18,23
+"Lexus","IS 300 SportCross","Wagon","$32,455",18,24
+"Lincoln","Navigator Luxury","SUV","$52,775",13,18
+"Lincoln","Aviator Ultimate","SUV","$42,915",13,18
+"Lincoln","LS V6 Luxury 4dr","Sedan","$32,495",20,26
+"Lincoln","LS V6 Premium 4dr","Sedan","$36,895",20,26
+"Lincoln","LS V8 Sport 4dr","Sedan","$40,095",17,24
+"Lincoln","LS V8 Ultimate 4dr","Sedan","$43,495",17,24
+"Lincoln","Town Car Signature 4dr","Sedan","$41,815",17,25
+"Lincoln","Town Car Ultimate 4dr","Sedan","$44,925",17,25
+"Lincoln","Town Car Ultimate L 4dr","Sedan","$50,470",17,25
+"MINI","Cooper","Sedan","$16,999",28,37
+"MINI","Cooper S","Sedan","$19,999",25,34
+"Mazda","Tribute DX 2.0","SUV","$21,087",22,25
+"Mazda","Mazda3 i 4dr","Sedan","$15,500",26,34
+"Mazda","Mazda3 s 4dr","Sedan","$17,200",25,31
+"Mazda","Mazda6 i 4dr","Sedan","$19,270",24,32
+"Mazda","MPV ES","Sedan","$28,750",18,25
+"Mazda","MX-5 Miata convertible 2dr","Sports","$22,388",23,28
+"Mazda","MX-5 Miata LS convertible 2dr","Sports","$25,193",23,28
+"Mazda","RX-8 4dr automatic","Sports","$25,700",18,25
+"Mazda","RX-8 4dr manual","Sports","$27,200",18,24
+"Mazda","B2300 SX Regular Cab","Truck","$14,840",24,29
+"Mazda","B4000 SE Cab Plus","Truck","$22,350",15,19
+"Mercedes-Benz","G500","SUV","$76,870",13,14
+"Mercedes-Benz","ML500","SUV","$46,470",14,17
+"Mercedes-Benz","C230 Sport 2dr","Sedan","$26,060",22,30
+"Mercedes-Benz","C320 Sport 2dr","Sedan","$28,370",19,26
+"Mercedes-Benz","C240 4dr","Sedan","$32,280",20,25
+"Mercedes-Benz","C240 4dr","Sedan","$33,480",19,25
+"Mercedes-Benz","C320 Sport 4dr","Sedan","$35,920",19,26
+"Mercedes-Benz","C320 4dr","Sedan","$37,630",20,26
+"Mercedes-Benz","C320 4dr","Sedan","$38,830",19,27
+"Mercedes-Benz","C32 AMG 4dr","Sedan","$52,120",16,21
+"Mercedes-Benz","CL500 2dr","Sedan","$94,820",16,24
+"Mercedes-Benz","CL600 2dr","Sedan","$128,420",13,19
+"Mercedes-Benz","CLK320 coupe 2dr (convertible)","Sedan","$45,707",20,26
+"Mercedes-Benz","CLK500 coupe 2dr (convertible)","Sedan","$52,800",17,22
+"Mercedes-Benz","E320 4dr","Sedan","$48,170",19,27
+"Mercedes-Benz","E500 4dr","Sedan","$57,270",16,20
+"Mercedes-Benz","S430 4dr","Sedan","$74,320",18,26
+"Mercedes-Benz","S500 4dr","Sedan","$86,970",16,24
+"Mercedes-Benz","SL500 convertible 2dr","Sports","$90,520",16,23
+"Mercedes-Benz","SL55 AMG 2dr","Sports","$121,770",14,21
+"Mercedes-Benz","SL600 convertible 2dr","Sports","$126,670",13,19
+"Mercedes-Benz","SLK230 convertible 2dr","Sports","$40,320",21,29
+"Mercedes-Benz","SLK32 AMG 2dr","Sports","$56,170",17,22
+"Mercedes-Benz","C240","Wagon","$33,780",19,25
+"Mercedes-Benz","E320","Wagon","$50,670",19,27
+"Mercedes-Benz","E500","Wagon","$60,670",16,24
+"Mercury","Mountaineer","SUV","$29,995",16,21
+"Mercury","Sable GS 4dr","Sedan","$21,595",20,27
+"Mercury","Grand Marquis GS 4dr","Sedan","$24,695",17,25
+"Mercury","Grand Marquis LS Premium 4dr","Sedan","$29,595",17,25
+"Mercury","Sable LS Premium 4dr","Sedan","$23,895",19,26
+"Mercury","Grand Marquis LS Ultimate 4dr","Sedan","$30,895",17,25
+"Mercury","Marauder 4dr","Sedan","$34,495",17,23
+"Mercury","Monterey Luxury","Sedan","$33,995",16,23
+"Mercury","Sable GS","Wagon","$22,595",19,26
+"Mitsubishi","Endeavor XLS","SUV","$30,492",17,21
+"Mitsubishi","Montero XLS","SUV","$33,112",15,19
+"Mitsubishi","Outlander LS","SUV","$18,892",21,27
+"Mitsubishi","Lancer ES 4dr","Sedan","$14,622",25,31
+"Mitsubishi","Lancer LS 4dr","Sedan","$16,722",25,31
+"Mitsubishi","Galant ES 2.4L 4dr","Sedan","$19,312",23,30
+"Mitsubishi","Lancer OZ Rally 4dr auto","Sedan","$17,232",25,31
+"Mitsubishi","Diamante LS 4dr","Sedan","$29,282",18,25
+"Mitsubishi","Galant GTS 4dr","Sedan","$25,700",18,26
+"Mitsubishi","Eclipse GTS 2dr","Sports","$25,092",21,28
+"Mitsubishi","Eclipse Spyder GT convertible 2dr","Sports","$26,992",21,28
+"Mitsubishi","Lancer Evolution 4dr","Sports","$29,562",18,26
+"Mitsubishi","Lancer Sportback LS","Wagon","$17,495",25,31
+"Nissan","Pathfinder Armada SE","SUV","$33,840",13,19
+"Nissan","Pathfinder SE","SUV","$27,339",16,21
+"Nissan","Xterra XE V6","SUV","$20,939",17,20
+"Nissan","Sentra 1.8 4dr","Sedan","$12,740",28,35
+"Nissan","Sentra 1.8 S 4dr","Sedan","$14,740",28,35
+"Nissan","Altima S 4dr","Sedan","$19,240",21,26
+"Nissan","Sentra SE-R 4dr","Sedan","$17,640",23,28
+"Nissan","Altima SE 4dr","Sedan","$23,290",21,26
+"Nissan","Maxima SE 4dr","Sedan","$27,490",20,28
+"Nissan","Maxima SL 4dr","Sedan","$29,440",20,28
+"Nissan","Quest S","Sedan","$24,780",19,26
+"Nissan","Quest SE","Sedan","$32,780",18,25
+"Nissan","350Z coupe 2dr","Sports","$26,910",20,26
+"Nissan","350Z Enthusiast convertible 2dr","Sports","$34,390",20,26
+"Nissan","Frontier King Cab XE V6","Truck","$19,479",17,20
+"Nissan","Titan King Cab XE","Truck","$26,650",14,18
+"Nissan","Murano SL","Wagon","$28,739",20,25
+"Oldsmobile","Alero GX 2dr","Sedan","$18,825",24,32
+"Oldsmobile","Alero GLS 2dr","Sedan","$23,675",20,29
+"Oldsmobile","Silhouette GL","Sedan","$28,790",19,26
+"Pontiac","Aztekt","SUV","$21,595",19,26
+"Pontiac","Sunfire 1SA 2dr","Sedan","$15,495",24,33
+"Pontiac","Grand Am GT 2dr","Sedan","$22,450",20,29
+"Pontiac","Grand Prix GT1 4dr","Sedan","$22,395",20,30
+"Pontiac","Sunfire 1SC 2dr","Sedan","$17,735",24,33
+"Pontiac","Grand Prix GT2 4dr","Sedan","$24,295",20,30
+"Pontiac","Bonneville GXP 4dr","Sedan","$35,995",17,20
+"Pontiac","Montana","Sedan","$23,845",19,26
+"Pontiac","Montana EWB","Sedan","$31,370",18,24
+"Pontiac","GTO 2dr","Sports","$33,500",16,20
+"Pontiac","Vibe","Wagon","$17,045",29,36
+"Porsche","Cayenne S","SUV","$56,665",14,18
+"Porsche","911 Carrera convertible 2dr (coupe)","Sports","$79,165",18,26
+"Porsche","911 Carrera 4S coupe 2dr (convert)","Sports","$84,165",17,24
+"Porsche","911 Targa coupe 2dr","Sports","$76,765",18,26
+"Porsche","911 GT2 2dr","Sports","$192,465",17,24
+"Porsche","Boxster convertible 2dr","Sports","$43,365",20,29
+"Porsche","Boxster S convertible 2dr","Sports","$52,365",18,26
+"Saab","9-3 Arc Sport 4dr","Sedan","$30,860",20,28
+"Saab","9-3 Aero 4dr","Sedan","$33,360",20,28
+"Saab","9-5 Arc 4dr","Sedan","$35,105",21,29
+"Saab","9-5 Aero 4dr","Sedan","$39,465",21,29
+"Saab","9-3 Arc convertible 2dr","Sedan","$40,670",21,29
+"Saab","9-3 Aero convertible 2dr","Sedan","$43,175",21,30
+"Saab","9-5 Aero","Wagon","$40,845",19,29
+"Saturn","VUE","SUV","$20,585",21,26
+"Saturn","Ion1 4dr","Sedan","$10,995",26,35
+"Saturn","lon2 4dr","Sedan","$14,300",26,35
+"Saturn","lon3 4dr","Sedan","$15,825",26,35
+"Saturn","lon2 quad coupe 2dr","Sedan","$14,850",26,35
+"Saturn","lon3 quad coupe 2dr","Sedan","$16,350",26,35
+"Saturn","L300-2 4dr","Sedan","$21,410",20,28
+"Saturn","L300 2","Wagon","$23,560",24,34
+"Scion","xA 4dr hatch","Sedan","$12,965",32,38
+"Scion","xB","Wagon","$14,165",31,35
+"Subaru","Impreza 2.5 RS 4dr","Sedan","$19,945",22,28
+"Subaru","Legacy L 4dr","Sedan","$20,445",21,28
+"Subaru","Legacy GT 4dr","Sedan","$25,645",21,28
+"Subaru","Outback Limited Sedan 4dr","Sedan","$27,145",20,27
+"Subaru","Outback H6 4dr","Sedan","$29,345",19,26
+"Subaru","Outback H-6 VDC 4dr","Sedan","$31,545",19,26
+"Subaru","Impreza WRX 4dr","Sports","$25,045",20,27
+"Subaru","Impreza WRX STi 4dr","Sports","$31,545",18,24
+"Subaru","Baja","Truck","$24,520",21,28
+"Subaru","Forester X","Wagon","$21,445",21,28
+"Subaru","Outback","Wagon","$23,895",21,28
+"Suzuki","XL-7 EX","SUV","$23,699",18,22
+"Suzuki","Vitara LX","SUV","$17,163",19,22
+"Suzuki","Aeno S 4dr","Sedan","$12,884",25,31
+"Suzuki","Aerio LX 4dr","Sedan","$14,500",25,31
+"Suzuki","Forenza S 4dr","Sedan","$12,269",24,31
+"Suzuki","Forenza EX 4dr","Sedan","$15,568",22,30
+"Suzuki","Verona LX 4dr","Sedan","$17,262",20,27
+"Suzuki","Aerio SX","Wagon","$16,497",24,29
+"Toyota","Prius 4dr (gas/electric)","Hybrid","$20,510",59,51
+"Toyota","Sequoia SR5","SUV","$35,695",14,17
+"Toyota","4Runner SR5 V6","SUV","$27,710",18,21
+"Toyota","Highlander V6","SUV","$27,930",18,24
+"Toyota","Land Cruiser","SUV","$54,765",13,17
+"Toyota","RAV4","SUV","$20,290",22,27
+"Toyota","Corolla CE 4dr","Sedan","$14,085",32,40
+"Toyota","Corolla S 4dr","Sedan","$15,030",32,40
+"Toyota","Corolla LE 4dr","Sedan","$15,295",32,40
+"Toyota","Echo 2dr manual","Sedan","$10,760",35,43
+"Toyota","Echo 2dr auto","Sedan","$11,560",33,39
+"Toyota","Echo 4dr","Sedan","$11,290",35,43
+"Toyota","Camry LE 4dr","Sedan","$19,560",24,33
+"Toyota","Camry LE V6 4dr","Sedan","$22,775",21,29
+"Toyota","Camry Solara SE 2dr","Sedan","$19,635",24,33
+"Toyota","Camry Solara SE V6 2dr","Sedan","$21,965",20,29
+"Toyota","Avalon XL 4dr","Sedan","$26,560",21,29
+"Toyota","Camry XLE V6 4dr","Sedan","$25,920",21,29
+"Toyota","Camry Solara SLE V6 2dr","Sedan","$26,510",20,29
+"Toyota","Avalon XLS 4dr","Sedan","$30,920",21,29
+"Toyota","Sienna CE","Sedan","$23,495",19,27
+"Toyota","Sienna XLE Limited","Sedan","$28,800",19,27
+"Toyota","Celica GT-S 2dr","Sports","$22,570",24,33
+"Toyota","MR2 Spyder convertible 2dr","Sports","$25,130",26,32
+"Toyota","Tacoma","Truck","$12,800",22,27
+"Toyota","Tundra Regular Cab V6","Truck","$16,495",16,18
+"Toyota","Tundra Access Cab V6 SR5","Truck","$25,935",14,17
+"Toyota","Matrix XR","Wagon","$16,695",29,36
+"Volkswagen","Touareg V6","SUV","$35,515",15,20
+"Volkswagen","Golf GLS 4dr","Sedan","$18,715",24,31
+"Volkswagen","GTI 1.8T 2dr hatch","Sedan","$19,825",24,31
+"Volkswagen","Jetta GLS TDI 4dr","Sedan","$21,055",38,46
+"Volkswagen","New Beetle GLS 1.8T 2dr","Sedan","$21,055",24,31
+"Volkswagen","Jetta GLI VR6 4dr","Sedan","$23,785",21,30
+"Volkswagen","New Beetle GLS convertible 2dr","Sedan","$23,215",24,30
+"Volkswagen","Passat GLS 4dr","Sedan","$23,955",22,31
+"Volkswagen","Passat GLX V6 4MOTION 4dr","Sedan","$33,180",19,26
+"Volkswagen","Passat W8 4MOTION 4dr","Sedan","$39,235",18,25
+"Volkswagen","Phaeton 4dr","Sedan","$65,000",16,22
+"Volkswagen","Phaeton W12 4dr","Sedan","$75,000",12,19
+"Volkswagen","Jetta GL","Wagon","$19,005",24,30
+"Volkswagen","Passat GLS 1.8T","Wagon","$24,955",22,31
+"Volkswagen","Passat W8","Wagon","$40,235",18,25
+"Volvo","XC90 T6","SUV","$41,250",15,20
+"Volvo","S40 4dr","Sedan","$25,135",22,29
+"Volvo","S60 2.5 4dr","Sedan","$31,745",20,27
+"Volvo","S60 T5 4dr","Sedan","$34,845",20,28
+"Volvo","S60 R 4dr","Sedan","$37,560",18,25
+"Volvo","S80 2.9 4dr","Sedan","$37,730",20,28
+"Volvo","S80 2.5T 4dr","Sedan","$37,885",20,27
+"Volvo","C70 LPT convertible 2dr","Sedan","$40,565",21,28
+"Volvo","C70 HPT convertible 2dr","Sedan","$42,565",20,26
+"Volvo","S80 T6 4dr","Sedan","$45,210",19,26
+"Volvo","V40","Wagon","$26,135",22,29
+"Volvo","XC70","Wagon","$35,145",20,27
+
